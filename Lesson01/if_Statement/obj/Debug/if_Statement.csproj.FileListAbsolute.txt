@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\if_Statement\obj\Debug\if_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\if_Statement\obj\Debug\if_Statement.pdb

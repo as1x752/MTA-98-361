@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\ifelse_Statement\obj\Debug\ifelse_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\ifelse_Statement\obj\Debug\ifelse_Statement.pdb

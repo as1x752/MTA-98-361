@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\foreach_Statement\bin\Debug\foreach_Statement.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\foreach_Statement\bin\Debug\foreach_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\foreach_Statement\bin\Debug\foreach_Statement.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\foreach_Statement\obj\Debug\foreach_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\foreach_Statement\obj\Debug\foreach_Statement.pdb

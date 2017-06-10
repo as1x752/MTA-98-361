@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\switch_Statement\bin\Debug\switch_Statement.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\switch_Statement\bin\Debug\switch_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\switch_Statement\bin\Debug\switch_Statement.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\switch_Statement\obj\Debug\switch_Statement.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\switch_Statement\obj\Debug\switch_Statement.pdb

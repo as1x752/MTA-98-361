@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\trycatchfinally\obj\Debug\trycatchfinally.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\trycatchfinally\obj\Debug\trycatchfinally.pdb

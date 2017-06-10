@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\Snippet1\bin\Debug\Snippet1.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\Snippet1\bin\Debug\Snippet1.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\Snippet1\bin\Debug\Snippet1.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\Snippet1\obj\Debug\Snippet1.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\Snippet1\obj\Debug\Snippet1.pdb

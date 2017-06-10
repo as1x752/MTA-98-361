@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.pdb
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.exe
+c:\users\user\documents\visual studio 2017\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.pdb
